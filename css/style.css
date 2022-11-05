@@ -1,0 +1,323 @@
+.navbar {
+    border-bottom: solid #009FE3 3px;
+ }
+
+ .sp{
+    font-weight: 500;
+    color: #195260; 
+  text-transform: uppercase;
+ }
+
+
+ .navbar-nav{
+   color: #195260;
+ }
+
+ header {
+
+   min-height: 100vh;
+   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/clinic.webp);
+   background-position: center;
+   background-size: cover;
+
+}
+
+
+.spe{
+   font-weight: 500;
+    color: #6294a0; 
+  text-transform: uppercase;
+}
+
+
+h1{
+  color:lightcyan ;
+}
+h1 i{
+  color:lightcyan ;
+  padding-right: 5px;
+
+}
+.iqon{
+  color:lightcyan ;
+
+}
+
+.article{
+  padding: 100px;
+  color:lightcyan ;
+  font-size: 16px;
+
+}
+.iqon2{
+   font-size: 14px;
+}
+h2{
+
+  color:lightcyan ;
+      word-spacing: 3px;
+      letter-spacing: 3px;
+      font-weight:500 ;
+      font-size: 1.6rem;
+      text-transform: uppercase;
+      text-align: center;
+      padding-top:30px ;
+  }
+
+
+.section-1{
+
+  height: 85vh;
+  background-image:
+  linear-gradient(rgba(0, 0, 0, 0.7) , rgba(0, 0, 0, 0.7)) ,url(../images/doctor\ .123.jpg);
+  background-position: center;
+  background-size: cover;
+
+}
+
+  hr{
+
+    width: 100px;
+    margin: 20px ;
+    border: solid rgb(23, 152, 152);
+    border-radius: 3px;
+
+}
+
+
+
+.Features-desc{ 
+  width: 100%;
+  margin: 15px auto;
+  line-height: 1.5;
+  font-weight: 300;
+  padding-left:330px ;
+  padding-bottom:30px ;
+  color: white;
+}
+
+.box{
+
+  padding-top: 60px;
+}
+
+.box i{
+
+color:lightcyan  ;
+font-size:2rem ;
+}
+.box p{
+
+color:white  ;
+font-weight: 300 ;
+}
+
+h3{
+
+  color:lightcyan ;
+  word-spacing: 2px;
+  letter-spacing: 2px;
+  font-weight:400 ;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  padding-top:10px ;
+
+}
+
+
+.children{
+  padding: 0;
+  margin-bottom: -2px;
+  background-color: black;
+}
+.children img {
+width: 100%;
+opacity: .6;
+transition: 1s;
+border-radius: 5px;
+}
+.children img:hover {
+opacity: 1;
+}
+
+
+.section-2{
+
+background-color:rgb(158, 194, 194)  ;
+
+}
+
+.iqon3{
+
+  color: rgb(37, 39, 41);
+}
+
+
+.pppp{
+
+  padding-top: 15px;
+
+}
+
+
+
+
+.section-3{
+  padding: 0;
+  margin-bottom: -3px;
+  background-color: black;
+}
+.section-3 img {
+width: 100%;
+opacity: .6;
+transition: 1s;
+}
+.section-3 img:hover {
+opacity: 1;
+}
+
+
+
+.section-4{
+     
+  height: 100vh;
+  background-image:
+  linear-gradient(rgba(0, 0, 0, 0.7) , rgba(0, 0, 0, 0.7)) ,url(../images/doctor\ .1.webp);
+   
+  background-position: center;
+  background-size: cover;
+
+}
+
+.opinions{
+  color: white;
+  padding-left: 10px;
+  padding-top: 30px;
+}
+
+.opinions i{
+   font-size: 20px;
+
+
+}
+.opinions p{
+line-height: 30px;
+   color: white;
+font-style: italic;
+}
+.opinions img{
+width: 60%;
+border-radius: 100px;
+margin-right: 15px;
+vertical-align: middle;
+
+}
+
+
+.line{
+  width: 100px;
+  margin: 30px 580px ;
+  border: solid rgb(23, 152, 152);
+  border-radius: 3px;
+
+}
+
+
+   
+.section-5{
+  padding: 40px 0;
+ background-color:rgb(158, 194, 194) ;
+  text-align: center;
+  color: rgb(196, 196, 196);
+}
+.section-5 p{
+
+  color:lightcyan ;
+}
+
+.section-6{
+  padding: 40px 0;
+  background-color:#8C9DA7;
+  text-align: center;
+  color: rgb(196, 196, 196);
+}
+.section-6 p{
+
+  color:lightcyan ;
+}
+
+.Contact{
+    
+  height: 100vh;
+  background-image:
+  linear-gradient(rgba(0, 0, 0, 0.7) , rgba(0, 0, 0, 0.7)) ,url(../images/map.3.jpeg);
+   
+  background-position: center;
+  background-size: cover;
+
+}
+
+.line-2{
+
+  width: 100px;
+  margin: 30px 570px ;
+  border: solid rgb(197, 222, 222);
+  border-radius: 3px;
+
+
+}
+.data{
+
+padding-left: 350px;
+padding-bottom: 12px;
+
+}
+
+
+.patient-data{
+
+
+background-color: #8C9DA7;
+
+}
+
+
+
+
+
+footer{ 
+  padding: 40px 0;
+  background-color: #4e6b7c;
+  text-align: center;
+  color: #ddd;
+   }
+   footer p{ 
+  text-align: center;
+  color: #ddd;
+  margin-top: 40px;
+   }
+   
+  .socail-nav{
+     float: right;
+  
+  }
+
+
+  
+ .footer-nav ,.socail-nav{
+  list-style: none;
+  display: flex;
+  }
+ .footer-nav li  ,.socail-nav li {
+  margin-left: 20px;
+  font-weight: 300;
+  }
+ .footer-nav li a ,.socail-nav li a{
+  color:#ddd;
+  text-decoration: none;
+  text-transform: uppercase;
+  }
+ .footer-nav li a:hover ,.socail-nav li a:hover {
+  color: rgb(95, 85, 67);
+  }
+  
